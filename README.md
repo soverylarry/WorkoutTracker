@@ -10,7 +10,7 @@ Node-Express-Mongo App
 
 ## Project Description: Any fitness enthusiast will be able to view create and track daily workouts. The user can log multiple exercises in a workout on a given day. You can also track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, the user can track the distance traveled.
 
-### Installation Requirements: NPM install; Express, 
+### Installation Requirements: NPM install; Express, Mongoose and Morgan
 
 ### Access on-line via Heroku:  https://larryworkouttracker.herokuapp.com/
 
