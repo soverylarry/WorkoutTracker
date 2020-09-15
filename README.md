@@ -3,9 +3,9 @@ mongo database for workout tracking
 Node-Express-Mongo App
 
 
-# GitHub Username:   Soverylarry
+## GitHub Username:   Soverylarry
 
-# Project Title:     Fitness Tracker
+## Project Title:     Fitness Tracker
 ### <img src= "https://img.shields.io/github/languages/count/soverylarry/EmployeeTracker">  <img src="https://img.shields.io/github/license/soverylarry/EmployeeTracker">
 
 ## Project Description: Any fitness enthusiast will be able to view create and track daily workouts. The user can log multiple exercises in a workout on a given day. You can also track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, the user can track the distance traveled.
@@ -16,10 +16,10 @@ Node-Express-Mongo App
 
 ### Usage:   (alternately: Enter 'NPM start' to initiate app if you are running locally on localhost 3000 from the command line.)
 
-<img src="https://github.com/soverylarry/EatDaBurger/blob/master/public/assets/img/.PNG">
+<img alt="D'oh!" src="https://github.com/soverylarry/WorkoutTracker/blob/master/public/img/fitness%20tracker.PNG">
 
 ### Licenses: MIT
 ### Contributors:         Developer, tutor and TA.
 ### Testing Requirements: None
-<img alt="D'oh!" src="https://github.com/soverylarry/WorkoutTracker/blob/master/public/img/fitness%20tracker.PNG">
+
 ### To email developer: soverylarry@gmail.com
