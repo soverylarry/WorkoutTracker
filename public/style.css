@@ -12,12 +12,18 @@ body,
   height: 100%;
 }
 
+#displayImage {
+  background-image: url("/img/fitness.jpg");
+  background-size: cover;
+}
+
+
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 nav {
-  background-color: #5793fd;
+  background-color: #dbc234;
   color: #ffffff;
   height: 80px;
   padding: 10px;
@@ -42,6 +48,11 @@ header {
 
 header h1 {
   transform: skewX(-2deg);
+}
+
+h1 {
+  color: blueviolet;
+  text-shadow: 2px 2px yellow;
 }
 
 select {
